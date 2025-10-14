@@ -1,0 +1,11 @@
+# Fichiers et dossiers generes par Maven
+/target/
+
+# Fichiers de metadonnees des IDE
+.classpath
+.project
+.settings/
+
+# Fichiers de configuration specifiques a l'utilisateur
+*.user
+*.DS_Store
